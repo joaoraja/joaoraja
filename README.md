@@ -21,8 +21,7 @@
 ## 💻 Sobre mim
 
 - 🎓 Técnico de Informática e estudante de Engenharia de Computação  
-- 🔭 Desenvolvimento de aplicações com Java, C# e JavaScript  
-- 🌱 Aprendendo React, Python e boas práticas de software  
+- 🌱 Aprendendo Python e boas práticas de software  
 - 🤝 Aberto a colaborar em projetos e trocar conhecimento  
 
 ---
@@ -51,6 +50,13 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoraja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"      alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoraja&layout=compact&theme=dracula" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=joaoraja&show_icons=true&theme=dracula&include_all_commits=true" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoraja&layout=compact&theme=dracula" 
+    alt="Top Languages" 
+  />
 </p>
+
