@@ -8,8 +8,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-raja-gabaglia-doreste-6b52472a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:joao.doreste@al.infnet.edu.br">
-    <img src="https://https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <a href = "mailto: joao.doreste@al.infnet.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
   <a href="https://instagram.com/jgrajaa_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
