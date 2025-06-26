@@ -26,11 +26,14 @@
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
 - [TurismoAppCsharp](https://github.com/joaoraja/TurismoAppCsharp)  
-- [SistemaSRS_AmbienteGrafico](https://github.com/joaoraja/SistemaSRS_AmbienteGrafico)  
+  Aplicação ASP.NET Core C# para gestão de pacotes turísticos e reservas, usando Razor Pages e Entity Framework Core.
 
+- [SistemaSRS_AmbienteGrafico](https://github.com/joaoraja/SistemaSRS_AmbienteGrafico)  
+  Sistema escolar em Java com interface gráfica Swing para cadastro de alunos, professores, cursos e notas.
+  
 ---
 
 ## 🛠️ Tech Stack
